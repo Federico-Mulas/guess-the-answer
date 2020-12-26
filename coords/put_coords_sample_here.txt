@@ -1,1 +1,0 @@
-TODO: Coords.py could load data from a JSON?

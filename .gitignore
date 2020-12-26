@@ -1,9 +1,0 @@
-# Directories
-venv/
-.vscode/
-src/Quizzes/
-src/__pycache__
-
-# Files
-*.pyc
-.DS_Store
